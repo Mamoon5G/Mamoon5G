@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Web Development and DSA
 - 💬 Ask me about Python, HTML, CSS, JS, PHP, C, C++, JAVA
 - 📫 How to reach me: ###Dm me on instagram @m_a__siddiqui_5g_ or mail me at: siddiquimamoon2004ms@gmail.com
-- ⚡ Fun fact: Coding is just a piece of cake with a sprinkle of venom
+- ⚡ Fun fact: Coding is just a piece of cake with a sprinkle of venom!
 
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/mamoon_siddiqui_786/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mamoon-siddiqui-0a27b2296/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Mamoon_4G)[![Meta](https://img.shields.io/badge/Meta-0866FF.svg?style=for-the-badge&logo=Meta&logoColor=white)](https://www.facebook.com/mamoon.siddiqui.146)[![Lichess](https://img.shields.io/badge/Lichess-000000.svg?style=for-the-badge&logo=Lichess&logoColor=white)](https://lichess.org/@/MAMOON_4G)
