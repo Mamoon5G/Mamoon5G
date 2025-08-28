@@ -7,12 +7,12 @@
 ## 🚀 About Me
 
 I'm a passionate **Computer Engineering** student with a love for creating innovative solutions through code. Currently diving deep into **Web Development** and **Data Structures & Algorithms**.
+
 - 🔭 **Currently Working On:** Full-stack web applications and competitive programming
 - 🌱 **Learning:** Advanced React patterns, System Design, and DSA optimization
 - 💼 **Open To:** Internship opportunities and collaborative projects
 - 🎯 **Goal:** Contributing to open-source projects and building impactful software
 - ⚡ **Fun Fact:** *"Coding is just a piece of cake with a sprinkle of venom!"* 🍰⚡
-
 
 ## 🛠️ Tech Stack
 
@@ -32,11 +32,15 @@ I'm a passionate **Computer Engineering** student with a love for creating innov
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
 ### Backend Development
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
 ### Database & Cloud
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
