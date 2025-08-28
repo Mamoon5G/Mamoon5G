@@ -1,21 +1,101 @@
-### Hi there 👋
+# Hi there, I'm Mamoon Siddiqui! 👋
 
-- 🔭 I'm a Student of B.Tech in Computer Engineering
-- 🌱 I’m currently learning Web Development and DSA
-- 💬 Ask me about Python, HTML, CSS, JS, PHP, C, C++, JAVA
-- 📫 How to reach me: ###Dm me on instagram @m_a__siddiqui_5g_ or mail me at: siddiquimamoon2004ms@gmail.com
-- ⚡ Fun fact: Coding is just a piece of cake with a sprinkle of venom!
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Computer+Engineering+Student;Full+Stack+Web+Developer;Problem+Solver+%26+Code+Enthusiast;Always+Learning+New+Technologies" alt="Typing SVG" />
+</div>
+
+## 🚀 About Me
+
+I'm a passionate **Computer Engineering** student with a love for creating innovative solutions through code. Currently diving deep into **Web Development** and **Data Structures & Algorithms**.
+- 🔭 **Currently Working On:** Full-stack web applications and competitive programming
+- 🌱 **Learning:** Advanced React patterns, System Design, and DSA optimization
+- 💼 **Open To:** Internship opportunities and collaborative projects
+- 🎯 **Goal:** Contributing to open-source projects and building impactful software
+- ⚡ **Fun Fact:** *"Coding is just a piece of cake with a sprinkle of venom!"* 🍰⚡
 
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/mamoon_siddiqui_786/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mamoon-siddiqui-0a27b2296/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Mamoon_4G)[![Meta](https://img.shields.io/badge/Meta-0866FF.svg?style=for-the-badge&logo=Meta&logoColor=white)](https://www.facebook.com/mamoon.siddiqui.146)[![Lichess](https://img.shields.io/badge/Lichess-000000.svg?style=for-the-badge&logo=Lichess&logoColor=white)](https://lichess.org/@/MAMOON_4G)[![Leetcode](https://img.shields.io/badge/Leetcode-000000.svg?style=for-the-badge&logo=Leetcode&logoColor=white)](https://leetcode.com/u/mamoon-5g/)
+## 🛠️ Tech Stack
 
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
-# Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=flat&logo=dart&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=flat&logo=firebase&logoColor=ffcd34) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
-# GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Mamoon-5G&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=Mamoon-5G&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mamoon-5G&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+### Frontend Development
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+
+### Backend Development
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+
+### Database & Cloud
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+### Tools & Others
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+
+## 📊 GitHub Statistics
+
+<div align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Mamoon-5G&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Mamoon-5G&theme=tokyonight&hide_border=true" />
+</div>
+
+<div align="center">
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mamoon-5G&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+</div>
+
+## 🏆 GitHub Trophies
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Mamoon-5G&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=6" />
+</div>
+
+## 📈 Contribution Graph
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mamoon-5G&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=7C3AED&line=7C3AED&point=FFFFFF" />
+</div>
+
+## 🤝 Let's Connect!
+
+I'm always open to interesting conversations, collaboration opportunities, and making new connections in the tech community!
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mamoon-siddiqui-0a27b2296/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/m_a__siddiqui_5g_)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Mamoon_4G)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/mamoon.siddiqui.146)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/mamoon-5g/)
+[![Lichess](https://img.shields.io/badge/Lichess-000000?style=for-the-badge&logo=lichess&logoColor=white)](https://lichess.org/@/MAMOON_4G)
+
+</div>
+
+<div align="center">
+  <strong>📧 Email:</strong> siddiquimamoon2004ms@gmail.com
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Mamoon-5G&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Mamoon-5G&style=for-the-badge&color=7C3AED" alt="Profile Views" />
+  
+  <br><br>
+  
+  <em>"Code is poetry written in logic, and every bug is just a plot twist waiting to be resolved."</em> ✨
+  
+  <br><br>
+  
+  **Thanks for visiting! ⭐ Star some repositories if you find them interesting!**
+</div>
